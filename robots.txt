@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /WinHistory/Images/
+Disallow: /macHistory/Images/
+Disallow: /UbuntuHistory/Images/
+Disallow: /DebianHistory/Images/
+Disallow: /MintHistory/Images/
+Disallow: /FedoraHistory/Images/
+Disallow: /droidHistory/Images/
+Disallow: /iHistory/Images/
