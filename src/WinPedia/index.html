@@ -62,6 +62,10 @@
       const homeContainer = document.getElementById("homeContainer");
       const contentContainer = document.getElementById("content-container");
 
+      // Set the background image for the main body
+      mainBody.style.backgroundImage = "url(./Images/Wallpapers/homeBG.jpg)";
+      mainBody.style.backgroundSize = "cover";
+
       fetch("./winpedia.json")
         .then((response) => response.json())
         .then((data) => {
