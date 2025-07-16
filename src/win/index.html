@@ -55,6 +55,7 @@
         <p>Codename: <span id="codename"></span></p>
         <p>Developed by: <span id="developer"></span></p>
       </div>
+      <button id="back-button" onclick="goBack()">Back</button>
     </div>
 
     <script>
@@ -109,6 +110,12 @@
         document.getElementById("succeeded-by").innerHTML = winVer.succeeded_by;
         document.getElementById("codename").textContent = winVer.codename;
         document.getElementById("developer").textContent = winVer.developer;
+      }
+
+      function goBack() {
+        homeContainer.style.display = "grid";
+        contentContainer.style.display = "none";
+        mainBody.style.backgroundImage = "url(./Images/Wallpapers/homeBG.jpg)";
       }
     </script>
   </body>
