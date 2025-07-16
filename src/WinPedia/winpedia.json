@@ -7,8 +7,8 @@
     "succeeded_by": "Windows 2.0 (released 1987)",
     "codename": "Interface Manager",
     "developer": "Microsoft Corporation",
-    "image": " Images/icons/w1.0.png",
-    "wallpaper": " Images/wallpaper/win1_0.jpg",
+    "image": "./Images/icons/w1.0.png",
+    "wallpaper": "./Images/wallpaper/win1_0.jpg",
     "description": "Windows 1.0 was the first major version of the Microsoft Windows series of Operating Systems, released on November 20, 1985 for US and to European nations in May of 1986. It marked a significant step in the evolution of Personal Computers (PCs). It wasn't a full-fledged operating system; it was only a graphical shell that ran on top of MS-DOS (mentioned in Other Notable Versions of Windows, check it out after reading this). This approach introduced a user-friendly interface with icons and windows, compared to the command-line DOS-interface, which made computers more accessible to a wider audience."
   },
   "win2_0": {
@@ -19,8 +19,8 @@
     "succeeded_by": "Windows 3.0 (released 1990)",
     "codename": "None",
     "developer": "Microsoft Corporation",
-    "image": " Images/icons/w2.0.png",
-    "wallpaper": " Images/wallpaper/win2_0.png",
+    "image": "./Images/icons/w2.0.png",
+    "wallpaper": "./Images/wallpaper/win2_0.png",
     "description": "Windows 2.0 is the second major release of the Microsoft Windows series of Operating Systems. It was released to manufaturing on December 9, 1987. It refined the User Interface of Windows 1.0 and introduced multiple improvments."
   },
   "win3_0": {
@@ -31,8 +31,8 @@
     "succeeded_by": "Windows 3.1 (released 1987)",
     "codename": "Janus",
     "developer": "Microsoft Corporation",
-    "image": " Images/icons/w3.0.png",
-    "wallpaper": " Images/wallpaper/win3_0.png",
+    "image": "./Images/icons/w3.0.png",
+    "wallpaper": "./Images/wallpaper/win3_0.png",
     "description": "Windows 3.0 is the third major release of Microsoft Windows, launched on May 22, 1990. It introduces a new graphical user interface (GUI) that represents applications as clickable icons, instead of the list of file names in its predecessors. Later updates expand capabilities, such as multimedia support for sound recording and playback, and support for CD-ROMs."
   },
   "win3_1": {
@@ -43,8 +43,8 @@
     "succeeded_by": "Windows 95 (released 1995)",
     "codename": "Janus",
     "developer": "Microsoft Corporation",
-    "image": " Images/icons/w3.1.png",
-    "wallpaper": " Images/wallpaper/win3_1.png",
+    "image": "./Images/icons/w3.1.png",
+    "wallpaper": "./Images/wallpaper/win3_1.png",
     "description": "Windows 3.1 is a major release of Microsoft Windows. It was released to manufacturing on April 6, 1992, as a successor to Windows 3.0. Like its predecessors, the Windows 3.1 series run as a shell on top of MS-DOS; it was the last Windows 16-bit operating environment as all future versions of Windows had moved to 32-bit."
   },
   "win95": {
@@ -55,8 +55,8 @@
     "succeeded_by": "Windows NT 4.0 (released 1996)<br />Windows 98 (released 1998)",
     "codename": "Chicago",
     "developer": "Microsoft Corporation",
-    "image": " Images/icons/w95.png",
-    "wallpaper": " Images/wallpaper/win95.png",
+    "image": "./Images/icons/w95.png",
+    "wallpaper": "./Images/wallpaper/win95.png",
     "description": "Windows 95 is a consumer-oriented operating system developed by Microsoft and the first OS in the Windows 9x family of operating systems, released to manufacturing on July 14, 1995, and generally to retail on August 24, 1995. Windows 95 merged Microsoft's formerly separate MS-DOS and Microsoft Windows products, and featured significant improvements over its predecessor, most notably in the graphical user interface (GUI) and in its simplified \"plug-and-play\" features. There were also major changes made to the core components of the operating system, such as moving from a mainly cooperatively multitasked 16-bit architecture of its predecessor Windows 3.1 to a 32-bit preemptive multitasking architecture."
   },
   "win98": {
@@ -67,8 +67,8 @@
     "succeeded_by": "Windows ME (released 2000)",
     "codename": "Memphis",
     "developer": "Microsoft Corporation",
-    "image": " Images/icons/w98.png",
-    "wallpaper": " Images/wallpaper/win98.jpg",
+    "image": "./Images/icons/w98.png",
+    "wallpaper": "./Images/wallpaper/win98.jpg",
     "description": "Windows 98 was consumer-oriented operating system developed by Microsoft as part of its Windows 9x series of operating systems. It was the second operating system in the 9x line, as the successor to Windows 95. It was released to manufacturing on May 15, 1998, and to retail on June 25, 1998. Like its predecessor, it was a hybrid 16-bit and 32-bit monolithic product with the boot stage based on MS-DOS."
   },
   "winME": {
@@ -79,8 +79,8 @@
     "succeeded_by": "Windows XP (released 2001)",
     "codename": "None",
     "developer": "Microsoft Corporation",
-    "image": " Images/icons/wME.png",
-    "wallpaper": " Images/wallpaper/winME.png",
+    "image": "./Images/icons/wME.png",
+    "wallpaper": "./Images/wallpaper/winME.png",
     "description": "Windows Me (Millennium Edition) is an operating system developed by Microsoft as the last operating system in the Windows 9x series of Microsoft Windows operating systems. It was the successor to Windows 98, and was released to manufacturing on June 19, 2000, and to retail on September 14, 2000. It was Microsoft's main operating system for home users and quickly replaced by its successor Windows XP on October 25, 2001."
   },
   "win2000": {
@@ -91,8 +91,8 @@
     "succeeded_by": "Windows XP and Windows Server 2003",
     "codename": "Asteroid (for SP1)",
     "developer": "Microsoft Corporation",
-    "image": " Images/icons/w2000.png",
-    "wallpaper": " Images/wallpaper/win2000.png",
+    "image": "./Images/icons/w2000.png",
+    "wallpaper": "./Images/wallpaper/win2000.png",
     "description": "Windows 2000 is a major release of the Windows NT operating system developed by Microsoft and oriented towards businesses. It is the direct successor to Windows NT 4.0, and was released to manufacturing on December 15, 1999, officially released to retail on February 17, 2000 for all versions, and on September 26, 2000 for Windows 2000 Datacenter Server. It was Microsoft's primary business-oriented operating system until the introduction of Windows XP Professional in 2001."
   },
   "winXP": {
@@ -103,8 +103,8 @@
     "succeeded_by": "Windows Vista (released 2007)",
     "codename": "Whistler",
     "developer": "Microsoft Corporation",
-    "image": " Images/icons/wXP.png",
-    "wallpaper": " Images/wallpaper/winXP.jpg",
+    "image": "./Images/icons/wXP.png",
+    "wallpaper": "./Images/wallpaper/winXP.jpg",
     "description": "Windows XP is a major release of Microsoft's Windows NT operating systems. It was released to manufacturing on August 24, 2001, and later to retail on October 25, 2001. It is a direct successor to Windows 2000 for high-end and business users and Windows Me for home users."
   },
   "winVista": {
@@ -115,8 +115,8 @@
     "succeeded_by": "Windows 7 (released 2009)",
     "codename": "Longhorn",
     "developer": "Microsoft Corporation",
-    "image": " Images/icons/wVista.png",
-    "wallpaper": " Images/wallpaper/winVista.jpg",
+    "image": "./Images/icons/wVista.png",
+    "wallpaper": "./Images/wallpaper/winVista.jpg",
     "description": "Windows Vista is a major release of the Windows NT series of operating systems developed by Microsoft. It was the direct successor to Windows XP, which was released five years earlier. This was then the longest time span between successive releases of Microsoft Windows. It was released to manufacturing on November 8, 2006, and over the following two months, it was released in stages to business customers, original equipment manufacturers (OEMs), and retail channels. On January 30, 2007, it was released internationally and was made available for purchase and download from the Windows Marketplace; it is the first release of Windows to be made available through a digital distribution platform."
   },
   "win7": {
@@ -127,8 +127,8 @@
     "succeeded_by": "Windows 8 (released 2012)",
     "codename": "Blackcomb",
     "developer": "Microsoft Corporation",
-    "image": " Images/icons/w7.png",
-    "wallpaper": " Images/wallpaper/win7.jpg",
+    "image": "./Images/icons/w7.png",
+    "wallpaper": "./Images/wallpaper/win7.jpg",
     "description": "Windows 7 is a major release of the Windows NT operating system developed by Microsoft. It was released to manufacturing on July 22, 2009, and became generally available on October 22, 2009. It is the successor to Windows Vista, released nearly three years earlier. Windows 7's server counterpart, Windows Server 2008 R2, was released at the same time. It was succeeded by Windows 8 in October 2012."
   },
   "win8": {
@@ -139,8 +139,8 @@
     "succeeded_by": "Windows 8.1 (released 2013)",
     "codename": "Sun Valley",
     "developer": "Microsoft Corporation",
-    "image": " Images/icons/w8n8.1.png",
-    "wallpaper": " Images/wallpaper/win8.jpg",
+    "image": "./Images/icons/w8n8.1.png",
+    "wallpaper": "./Images/wallpaper/win8.jpg",
     "description": "Windows 8 is a major release of the Windows NT operating system developed by Microsoft. It was released to manufacturing on August 1, 2012, made available for download via MSDN and TechNet on August 15, 2012, and generally released for retail on October 26, 2012."
   },
   "win8_1": {
@@ -151,8 +151,8 @@
     "succeeded_by": "Windows 10 (released 2015)",
     "codename": "Blue",
     "developer": "Microsoft Corporation",
-    "image": " Images/icons/w8n8.1.png",
-    "wallpaper": " Images/wallpaper/win8_1.jpg",
+    "image": "./Images/icons/w8n8.1.png",
+    "wallpaper": "./Images/wallpaper/win8_1.jpg",
     "description": "Windows 8.1 is a release of the Windows NT operating system developed by Microsoft. It was released to manufacturing on August 27, 2013, and broadly released for retail sale on October 17, 2013, about a year after the retail release of its predecessor, and succeeded by Windows 10 on July 29, 2015. Windows 8.1 was made available for download via MSDN and Technet and available as a free upgrade for retail copies of Windows 8 and Windows RT users via the Windows Store. A server version, Windows Server 2012 R2, was released on October 18, 2013."
   },
   "win10": {
@@ -163,8 +163,8 @@
     "succeeded_by": "Windows 11 (released 2021)",
     "codename": "Threshold",
     "developer": "Microsoft Corporation",
-    "image": " Images/icons/w10.png",
-    "wallpaper": " Images/wallpaper/win10.jpg",
+    "image": "./Images/icons/w10.png",
+    "wallpaper": "./Images/wallpaper/win10.jpg",
     "description": "Windows 10 is a major release of Microsoft's Windows NT operating system as the successor to Windows 8.1. It was released to manufacturing on July 15, 2015, and later to retail on July 29, 2015. Windows 10 was made available for download via MSDN and TechNet, as a free upgrade for retail copies of Windows 8 and Windows 8.1 users via the Microsoft Store, and to Windows 7 users via Windows Update. Unlike previous Windows NT releases, Windows 10 receives new builds on an ongoing basis, which are available at no additional cost to users; devices in enterprise environments can alternatively use long-term support milestones that only receive critical updates, such as security patches."
   },
   "win11": {
@@ -175,8 +175,8 @@
     "succeeded_by": "Latest major release of Microsoft Windows",
     "codename": "Sun Valley",
     "developer": "Microsoft Corporation",
-    "image": " Images/icons/w11.png",
-    "wallpaper": " Images/wallpaper/win11.jpg",
+    "image": "./Images/icons/w11.png",
+    "wallpaper": "./Images/wallpaper/win11.jpg",
     "description": "Windows 11 is the latest major release of Microsoft's Windows NT operating system, released on October 5, 2021. It succeeded Windows 10 (2015), and is available for free for any Windows 10 devices that meet the new Windows 11 system requirements. Windows 11 features major changes to the Windows shell influenced by the canceled Windows 10X, including a redesigned Start menu, the replacement of its \"live tiles\" with a separate \"Widgets\" panel on the taskbar, the ability to create tiled sets of windows that can be minimized and restored from the taskbar as a group, and new gaming technologies inherited from Xbox Series X and Series S such as Auto HDR and DirectStorage on compatible hardware. Internet Explorer (IE) has been replaced by the Chromium-based Microsoft Edge as the default web browser, like its predecessor, Windows 10, and Microsoft Teams is integrated into the Windows shell. Microsoft also announced plans to allow more flexibility in software that can be distributed via the Microsoft Store and to support Android apps on Windows 11."
   }
 }

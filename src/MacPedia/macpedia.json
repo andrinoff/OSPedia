@@ -7,8 +7,8 @@
     "succeeded_by": "Mac OS X 10.0 Cheetah",
     "codename": "System 1 to 9",
     "developer": "Apple Inc.",
-    "image": " Images/Icons/System_Software.png",
-    "wallpaper": " Images/Wallpapers/System_1.png",
+    "image": "./Images/Icons/System_Software.png",
+    "wallpaper": "./Images/Wallpapers/System_1.png",
     "description": "The classic Mac OS is the series of operating systems developed for the Macintosh family of personal computers by Apple Inc. from 1984 to 2001, starting with System 1 and ending with Mac OS 9."
   },
   "macos_cheetah": {
@@ -19,8 +19,8 @@
     "succeeded_by": "Mac OS X 10.1 Puma",
     "codename": "Cheetah",
     "developer": "Apple Inc.",
-    "image": " Images/Icons/Mac_OS_X_10.0_Cheetah.png",
-    "wallpaper": " Images/Wallpapers/Mac_OS_X_10.0n10.1_Cheetah_n_Puma.png",
+    "image": "./Images/Icons/Mac_OS_X_10.0_Cheetah.png",
+    "wallpaper": "./Images/Wallpapers/Mac_OS_X_10.0n10.1_Cheetah_n_Puma.png",
     "description": "Mac OS X 10.0 Cheetah is the first major release of macOS, Apple's desktop and server operating system."
   },
   "macos_puma": {
@@ -31,8 +31,8 @@
     "succeeded_by": "Mac OS X 10.2 Jaguar",
     "codename": "Puma",
     "developer": "Apple Inc.",
-    "image": " Images/Icons/Mac_OS_X_10.1_Puma.png",
-    "wallpaper": " Images/Wallpapers/Mac_OS_X_10.0n10.1_Cheetah_n_Puma.png",
+    "image": "./Images/Icons/Mac_OS_X_10.1_Puma.png",
+    "wallpaper": "./Images/Wallpapers/Mac_OS_X_10.0n10.1_Cheetah_n_Puma.png",
     "description": "Mac OS X 10.1 Puma is the second major release of macOS, Apple's desktop and server operating system."
   },
   "macos_jaguar": {
@@ -43,8 +43,8 @@
     "succeeded_by": "Mac OS X 10.3 Panther",
     "codename": "Jaguar",
     "developer": "Apple Inc.",
-    "image": " Images/Icons/Mac_OS_X_Jaguar.jpg",
-    "wallpaper": " Images/Wallpapers/Mac_OS_X_Jaguar.png",
+    "image": "./Images/Icons/Mac_OS_X_Jaguar.jpg",
+    "wallpaper": "./Images/Wallpapers/Mac_OS_X_Jaguar.png",
     "description": "Mac OS X 10.2 Jaguar is the third major release of macOS, Apple's desktop and server operating system."
   },
   "macos_panther": {
@@ -55,8 +55,8 @@
     "succeeded_by": "Mac OS X 10.4 Tiger",
     "codename": "Panther",
     "developer": "Apple Inc.",
-    "image": " Images/Icons/Mac_OS_X_Panther.png",
-    "wallpaper": "Images/Wallpapers/Mac_OS_X_Panther.png",
+    "image": "./Images/Icons/Mac_OS_X_Panther.png",
+    "wallpaper": "./Images/Wallpapers/Mac_OS_X_Panther.png",
     "description": "Mac OS X 10.3 Panther is the fourth major release of macOS, Apple's desktop and server operating system."
   },
   "macos_tiger": {
@@ -67,8 +67,8 @@
     "succeeded_by": "Mac OS X 10.5 Leopard",
     "codename": "Tiger",
     "developer": "Apple Inc.",
-    "image": "Images/Icons/Mac_OS_X_Tiger.png",
-    "wallpaper": "Images/Wallpapers/Mac_OS_X_Tiger.png",
+    "image": "./Images/Icons/Mac_OS_X_Tiger.png",
+    "wallpaper": "./Images/Wallpapers/Mac_OS_X_Tiger.png",
     "description": "Mac OS X 10.4 Tiger is the fifth major release of macOS, Apple's desktop and server operating system."
   },
   "macos_leopard": {
@@ -79,8 +79,8 @@
     "succeeded_by": "Mac OS X 10.6 Snow Leopard",
     "codename": "Leopard",
     "developer": "Apple Inc.",
-    "image": "Images/Icons/Mac_OS_X_Leopard.png",
-    "wallpaper": "Images/Wallpapers/Mac_OS_X_Leopard.png",
+    "image": "./Images/Icons/Mac_OS_X_Leopard.png",
+    "wallpaper": "./Images/Wallpapers/Mac_OS_X_Leopard.png",
     "description": "Mac OS X 10.5 Leopard is the sixth major release of macOS, Apple's desktop and server operating system."
   },
   "macos_snow_leopard": {
@@ -91,8 +91,8 @@
     "succeeded_by": "Mac OS X 10.7 Lion",
     "codename": "Snow Leopard",
     "developer": "Apple Inc.",
-    "image": "Images/Icons/Mac_OS_X_Snow_Leopard.png",
-    "wallpaper": "Images/Wallpapers/Mac_OS_X_Snow_Leopard.png",
+    "image": "./Images/Icons/Mac_OS_X_Snow_Leopard.png",
+    "wallpaper": "./Images/Wallpapers/Mac_OS_X_Snow_Leopard.png",
     "description": "Mac OS X 10.6 Snow Leopard is the seventh major release of macOS, Apple's desktop and server operating system."
   },
   "macos_lion": {
@@ -103,8 +103,8 @@
     "succeeded_by": "OS X 10.8 Mountain Lion",
     "codename": "Lion",
     "developer": "Apple Inc.",
-    "image": "Images/Icons/OS_X_Lion.png",
-    "wallpaper": "Images/Wallpapers/OS_X_Lion.png",
+    "image": "./Images/Icons/OS_X_Lion.png",
+    "wallpaper": "./Images/Wallpapers/OS_X_Lion.png",
     "description": "OS X 10.7 Lion is the eighth major release of macOS, Apple's desktop and server operating system."
   },
   "macos_mountain_lion": {
@@ -115,8 +115,8 @@
     "succeeded_by": "OS X 10.9 Mavericks",
     "codename": "Mountain Lion",
     "developer": "Apple Inc.",
-    "image": "Images/Icons/OS_X_Mountain_Lion.png",
-    "wallpaper": "Images/Wallpapers/OS_X_Mountain_Lion.jpg",
+    "image": "./Images/Icons/OS_X_Mountain_Lion.png",
+    "wallpaper": "./Images/Wallpapers/OS_X_Mountain_Lion.jpg",
     "description": "OS X 10.8 Mountain Lion is the ninth major release of macOS, Apple's desktop and server operating system."
   },
   "macos_mavericks": {
@@ -127,8 +127,8 @@
     "succeeded_by": "OS X 10.10 Yosemite",
     "codename": "Mavericks",
     "developer": "Apple Inc.",
-    "image": "Images/Icons/OS_X_Mavericks.png",
-    "wallpaper": "Images/Wallpapers/OS_X_Mavericks.jpg",
+    "image": "./Images/Icons/OS_X_Mavericks.png",
+    "wallpaper": "./Images/Wallpapers/OS_X_Mavericks.jpg",
     "description": "OS X 10.9 Mavericks is the tenth major release of macOS, Apple's desktop and server operating system."
   },
   "macos_yosemite": {
@@ -139,8 +139,8 @@
     "succeeded_by": "OS X 10.11 El Capitan",
     "codename": "Yosemite",
     "developer": "Apple Inc.",
-    "image": "Images/Icons/OS_X_Yosemite.png",
-    "wallpaper": "Images/Wallpapers/OS_X_Yosemite.jpg",
+    "image": "./Images/Icons/OS_X_Yosemite.png",
+    "wallpaper": "./Images/Wallpapers/OS_X_Yosemite.jpg",
     "description": "OS X 10.10 Yosemite is the eleventh major release of macOS, Apple's desktop and server operating system."
   },
   "macos_el_capitan": {
@@ -151,8 +151,8 @@
     "succeeded_by": "macOS 10.12 Sierra",
     "codename": "El Capitan",
     "developer": "Apple Inc.",
-    "image": "Images/Icons/OS_X_El_Capitan.png",
-    "wallpaper": "Images/Wallpapers/OS_X_El_Capitan.jpg",
+    "image": "./Images/Icons/OS_X_El_Capitan.png",
+    "wallpaper": "./Images/Wallpapers/OS_X_El_Capitan.jpg",
     "description": "OS X 10.11 El Capitan is the twelfth major release of macOS, Apple's desktop and server operating system."
   },
   "macos_sierra": {
@@ -163,8 +163,8 @@
     "succeeded_by": "macOS 10.13 High Sierra",
     "codename": "Sierra",
     "developer": "Apple Inc.",
-    "image": "Images/Icons/macOS_Sierra.png",
-    "wallpaper": "Images/Wallpapers/macOS_Sierra.jpg",
+    "image": "./Images/Icons/macOS_Sierra.png",
+    "wallpaper": "./Images/Wallpapers/macOS_Sierra.jpg",
     "description": "macOS 10.12 Sierra is the thirteenth major release of macOS, Apple's desktop and server operating system."
   },
   "macos_high_sierra": {
@@ -175,8 +175,8 @@
     "succeeded_by": "macOS 10.14 Mojave",
     "codename": "High Sierra",
     "developer": "Apple Inc.",
-    "image": "Images/Icons/macOS_High_Sierra.png",
-    "wallpaper": "Images/Wallpapers/macOS_High_Sierra.jpg",
+    "image": "./Images/Icons/macOS_High_Sierra.png",
+    "wallpaper": "./Images/Wallpapers/macOS_High_Sierra.jpg",
     "description": "macOS 10.13 High Sierra is the fourteenth major release of macOS, Apple's desktop and server operating system."
   },
   "macos_mojave": {
@@ -187,8 +187,8 @@
     "succeeded_by": "macOS 10.15 Catalina",
     "codename": "Mojave",
     "developer": "Apple Inc.",
-    "image": "Images/Icons/macOS_Mojave.png",
-    "wallpaper": "Images/Wallpapers/macOS_Mojave.jpg",
+    "image": "./Images/Icons/macOS_Mojave.png",
+    "wallpaper": "./Images/Wallpapers/macOS_Mojave.jpg",
     "description": "macOS 10.14 Mojave is the fifteenth major release of macOS, Apple's desktop and server operating system."
   },
   "macos_catalina": {
@@ -199,8 +199,8 @@
     "succeeded_by": "macOS 11 Big Sur",
     "codename": "Catalina",
     "developer": "Apple Inc.",
-    "image": "Images/Icons/macOS_Catalina.png",
-    "wallpaper": "Images/Wallpapers/macOS_Catalina.jpg",
+    "image": "./Images/Icons/macOS_Catalina.png",
+    "wallpaper": "./Images/Wallpapers/macOS_Catalina.jpg",
     "description": "macOS 10.15 Catalina is the sixteenth major release of macOS, Apple's desktop and server operating system."
   },
   "macos_big_sur": {
@@ -211,8 +211,8 @@
     "succeeded_by": "macOS 12 Monterey",
     "codename": "Big Sur",
     "developer": "Apple Inc.",
-    "image": "Images/Icons/macOS_Big_Sur.webp",
-    "wallpaper": "Images/Wallpapers/macOS_Big_Sur.jpg",
+    "image": "./Images/Icons/macOS_Big_Sur.webp",
+    "wallpaper": "./Images/Wallpapers/macOS_Big_Sur.jpg",
     "description": "macOS 11 Big Sur is the seventeenth major release of macOS, Apple's desktop and server operating system."
   },
   "macos_monterey": {
@@ -223,8 +223,8 @@
     "succeeded_by": "macOS 13 Ventura",
     "codename": "Monterey",
     "developer": "Apple Inc.",
-    "image": "Images/Icons/macOS_Monterey.png",
-    "wallpaper": "Images/Wallpapers/macOS_Monterey.jpg",
+    "image": "./Images/Icons/macOS_Monterey.png",
+    "wallpaper": "./Images/Wallpapers/macOS_Monterey.jpg",
     "description": "macOS 12 Monterey is the eighteenth major release of macOS, Apple's desktop and server operating system."
   },
   "macos_ventura": {
@@ -235,8 +235,8 @@
     "succeeded_by": "macOS 14 Sonoma",
     "codename": "Ventura",
     "developer": "Apple Inc.",
-    "image": "Images/Icons/macOS_Ventura.png",
-    "wallpaper": "Images/Wallpapers/macOS_Ventura.jpg",
+    "image": "./Images/Icons/macOS_Ventura.png",
+    "wallpaper": "./Images/Wallpapers/macOS_Ventura.jpg",
     "description": "macOS 13 Ventura is the nineteenth major release of macOS, Apple's desktop and server operating system."
   },
   "macos_sonoma": {
@@ -247,8 +247,8 @@
     "succeeded_by": "macOS 15 Sequoia",
     "codename": "Sonoma",
     "developer": "Apple Inc.",
-    "image": "Images/Icons/macOS_Sonoma.png",
-    "wallpaper": "Images/Wallpapers/macOS_Sonoma.jpg",
+    "image": "./Images/Icons/macOS_Sonoma.png",
+    "wallpaper": "./Images/Wallpapers/macOS_Sonoma.jpg",
     "description": "macOS 14 Sonoma is the twentieth major release of macOS, Apple's desktop and server operating system."
   },
   "macos_sequoia": {
@@ -259,8 +259,8 @@
     "succeeded_by": "Latest major release",
     "codename": "Sequoia",
     "developer": "Apple Inc.",
-    "image": "Images/Icons/macOS_Sequoia.png",
-    "wallpaper": "Images/Wallpapers/macOS_Sequoia.jpg",
+    "image": "./Images/Icons/macOS_Sequoia.png",
+    "wallpaper": "./Images/Wallpapers/macOS_Sequoia.jpg",
     "description": "macOS 15 Sequoia is the upcoming twenty-first major release of macOS, Apple's desktop and server operating system."
   },
   "macos_tahoe": {
@@ -272,7 +272,7 @@
     "codename": "Tahoe",
     "developer": "Apple Inc.",
     "image": "",
-    "wallpaper": "Images/Wallpapers/macOS_Tahoe.png",
+    "wallpaper": "./Images/Wallpapers/macOS_Tahoe.png",
     "description": "macOS Tahoe is a codename for a version of macOS. It is not a public release."
   }
 }
